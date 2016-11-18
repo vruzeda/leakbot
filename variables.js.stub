@@ -1,0 +1,6 @@
+// The application depends on a file named variables.js
+// This is a stub for it.
+
+module.exports = {
+  SLACK_API_TOKEN: 'Token to connect to Slack API'
+};
